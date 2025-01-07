@@ -2,7 +2,7 @@ Best performing model is Deep Neural Network using title and abstracts of resear
 
 
 ********************************************************************
-LSR_update_data.py is the final code which trains the model, and can be used to make predictions for the next Living Systematic Review update.
+LSR_Malaria_model.py is the final code which trains the model, and can be used to make predictions for the next Living Systematic Review update.
 
 Title_and_Abstract.csv file has the data for training and validating the model.
 
